@@ -1,5 +1,5 @@
 CMakeFiles/uvtest.dir/include/UV_detector.cpp.o: \
-  /Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/include/UV_detector.cpp \
+  /Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/include/UV_detector.cpp \
   /Users/juice/anaconda3/include/opencv4/opencv2/opencv.hpp \
   /Users/juice/anaconda3/include/opencv4/opencv2/opencv_modules.hpp \
   /Users/juice/anaconda3/include/opencv4/opencv2/core.hpp \
@@ -982,8 +982,8 @@ CMakeFiles/uvtest.dir/include/UV_detector.cpp.o: \
   /Users/juice/anaconda3/include/opencv4/opencv2/video.hpp \
   /Users/juice/anaconda3/include/opencv4/opencv2/video/tracking.hpp \
   /Users/juice/anaconda3/include/opencv4/opencv2/video/background_segm.hpp \
-  /Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/include/UV_detector.h \
-  /Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/include/kalman_filter.h \
+  /Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/include/UV_detector.h \
+  /Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/include/kalman_filter.h \
   /Users/juice/anaconda3/include/eigen3/Eigen/Dense \
   /Users/juice/anaconda3/include/eigen3/Eigen/Core \
   /Users/juice/anaconda3/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h \

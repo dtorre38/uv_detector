@@ -1,3 +1,3 @@
-/Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/CMakeFiles/uvtest.dir
-/Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/CMakeFiles/edit_cache.dir
-/Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/CMakeFiles/rebuild_cache.dir
+/Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/CMakeFiles/uvtest.dir
+/Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/CMakeFiles/edit_cache.dir
+/Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/CMakeFiles/rebuild_cache.dir

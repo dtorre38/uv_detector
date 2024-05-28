@@ -1,5 +1,5 @@
-#cmake .
-#reset
-#make clean
+cmake .
+reset
+make clean
 make
 ./uvtest

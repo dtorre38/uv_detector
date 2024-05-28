@@ -4,7 +4,7 @@
 # compile CXX with /Library/Developer/CommandLineTools/usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/include -isystem /Users/juice/anaconda3/include/opencv4 -isystem /Users/juice/anaconda3/include/eigen3
+CXX_INCLUDES = -I/Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/include -isystem /Users/juice/anaconda3/include/opencv4 -isystem /Users/juice/anaconda3/include/eigen3
 
 CXX_FLAGSarm64 = -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
 

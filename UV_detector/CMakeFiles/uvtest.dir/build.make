@@ -53,10 +53,10 @@ RM = /opt/homebrew/Cellar/cmake/3.29.2/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector
+CMAKE_SOURCE_DIR = /Users/juice/Documents/LocalPlanners/uv_detector/UV_detector
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector
+CMAKE_BINARY_DIR = /Users/juice/Documents/LocalPlanners/uv_detector/UV_detector
 
 # Include any dependencies generated for this target.
 include CMakeFiles/uvtest.dir/depend.make
@@ -72,44 +72,44 @@ include CMakeFiles/uvtest.dir/flags.make
 CMakeFiles/uvtest.dir/include/UV_detector.cpp.o: CMakeFiles/uvtest.dir/flags.make
 CMakeFiles/uvtest.dir/include/UV_detector.cpp.o: include/UV_detector.cpp
 CMakeFiles/uvtest.dir/include/UV_detector.cpp.o: CMakeFiles/uvtest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/uvtest.dir/include/UV_detector.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/uvtest.dir/include/UV_detector.cpp.o -MF CMakeFiles/uvtest.dir/include/UV_detector.cpp.o.d -o CMakeFiles/uvtest.dir/include/UV_detector.cpp.o -c /Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/include/UV_detector.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/uvtest.dir/include/UV_detector.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/uvtest.dir/include/UV_detector.cpp.o -MF CMakeFiles/uvtest.dir/include/UV_detector.cpp.o.d -o CMakeFiles/uvtest.dir/include/UV_detector.cpp.o -c /Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/include/UV_detector.cpp
 
 CMakeFiles/uvtest.dir/include/UV_detector.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/uvtest.dir/include/UV_detector.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/include/UV_detector.cpp > CMakeFiles/uvtest.dir/include/UV_detector.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/include/UV_detector.cpp > CMakeFiles/uvtest.dir/include/UV_detector.cpp.i
 
 CMakeFiles/uvtest.dir/include/UV_detector.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/uvtest.dir/include/UV_detector.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/include/UV_detector.cpp -o CMakeFiles/uvtest.dir/include/UV_detector.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/include/UV_detector.cpp -o CMakeFiles/uvtest.dir/include/UV_detector.cpp.s
 
 CMakeFiles/uvtest.dir/include/kalman_filter.cpp.o: CMakeFiles/uvtest.dir/flags.make
 CMakeFiles/uvtest.dir/include/kalman_filter.cpp.o: include/kalman_filter.cpp
 CMakeFiles/uvtest.dir/include/kalman_filter.cpp.o: CMakeFiles/uvtest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/uvtest.dir/include/kalman_filter.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/uvtest.dir/include/kalman_filter.cpp.o -MF CMakeFiles/uvtest.dir/include/kalman_filter.cpp.o.d -o CMakeFiles/uvtest.dir/include/kalman_filter.cpp.o -c /Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/include/kalman_filter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/uvtest.dir/include/kalman_filter.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/uvtest.dir/include/kalman_filter.cpp.o -MF CMakeFiles/uvtest.dir/include/kalman_filter.cpp.o.d -o CMakeFiles/uvtest.dir/include/kalman_filter.cpp.o -c /Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/include/kalman_filter.cpp
 
 CMakeFiles/uvtest.dir/include/kalman_filter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/uvtest.dir/include/kalman_filter.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/include/kalman_filter.cpp > CMakeFiles/uvtest.dir/include/kalman_filter.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/include/kalman_filter.cpp > CMakeFiles/uvtest.dir/include/kalman_filter.cpp.i
 
 CMakeFiles/uvtest.dir/include/kalman_filter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/uvtest.dir/include/kalman_filter.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/include/kalman_filter.cpp -o CMakeFiles/uvtest.dir/include/kalman_filter.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/include/kalman_filter.cpp -o CMakeFiles/uvtest.dir/include/kalman_filter.cpp.s
 
 CMakeFiles/uvtest.dir/src/uvtest.cpp.o: CMakeFiles/uvtest.dir/flags.make
 CMakeFiles/uvtest.dir/src/uvtest.cpp.o: src/uvtest.cpp
 CMakeFiles/uvtest.dir/src/uvtest.cpp.o: CMakeFiles/uvtest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/uvtest.dir/src/uvtest.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/uvtest.dir/src/uvtest.cpp.o -MF CMakeFiles/uvtest.dir/src/uvtest.cpp.o.d -o CMakeFiles/uvtest.dir/src/uvtest.cpp.o -c /Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/src/uvtest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/uvtest.dir/src/uvtest.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/uvtest.dir/src/uvtest.cpp.o -MF CMakeFiles/uvtest.dir/src/uvtest.cpp.o.d -o CMakeFiles/uvtest.dir/src/uvtest.cpp.o -c /Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/src/uvtest.cpp
 
 CMakeFiles/uvtest.dir/src/uvtest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/uvtest.dir/src/uvtest.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/src/uvtest.cpp > CMakeFiles/uvtest.dir/src/uvtest.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/src/uvtest.cpp > CMakeFiles/uvtest.dir/src/uvtest.cpp.i
 
 CMakeFiles/uvtest.dir/src/uvtest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/uvtest.dir/src/uvtest.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/src/uvtest.cpp -o CMakeFiles/uvtest.dir/src/uvtest.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/src/uvtest.cpp -o CMakeFiles/uvtest.dir/src/uvtest.cpp.s
 
 # Object files for target uvtest
 uvtest_OBJECTS = \
@@ -174,7 +174,7 @@ uvtest: /Users/juice/anaconda3/lib/libopencv_photo.4.6.0.dylib
 uvtest: /Users/juice/anaconda3/lib/libopencv_imgproc.4.6.0.dylib
 uvtest: /Users/juice/anaconda3/lib/libopencv_core.4.6.0.dylib
 uvtest: CMakeFiles/uvtest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable uvtest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable uvtest"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/uvtest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -186,6 +186,6 @@ CMakeFiles/uvtest.dir/clean:
 .PHONY : CMakeFiles/uvtest.dir/clean
 
 CMakeFiles/uvtest.dir/depend:
-	cd /Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector /Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector /Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector /Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector /Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/CMakeFiles/uvtest.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/juice/Documents/LocalPlanners/uv_detector/UV_detector && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/juice/Documents/LocalPlanners/uv_detector/UV_detector /Users/juice/Documents/LocalPlanners/uv_detector/UV_detector /Users/juice/Documents/LocalPlanners/uv_detector/UV_detector /Users/juice/Documents/LocalPlanners/uv_detector/UV_detector /Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/CMakeFiles/uvtest.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/uvtest.dir/depend
 

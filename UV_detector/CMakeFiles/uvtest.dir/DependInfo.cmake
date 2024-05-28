@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/include/UV_detector.cpp" "CMakeFiles/uvtest.dir/include/UV_detector.cpp.o" "gcc" "CMakeFiles/uvtest.dir/include/UV_detector.cpp.o.d"
-  "/Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/include/kalman_filter.cpp" "CMakeFiles/uvtest.dir/include/kalman_filter.cpp.o" "gcc" "CMakeFiles/uvtest.dir/include/kalman_filter.cpp.o.d"
-  "/Users/juice/Documents/LocalPlanners/uv_detector-master/UV_detector/src/uvtest.cpp" "CMakeFiles/uvtest.dir/src/uvtest.cpp.o" "gcc" "CMakeFiles/uvtest.dir/src/uvtest.cpp.o.d"
+  "/Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/include/UV_detector.cpp" "CMakeFiles/uvtest.dir/include/UV_detector.cpp.o" "gcc" "CMakeFiles/uvtest.dir/include/UV_detector.cpp.o.d"
+  "/Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/include/kalman_filter.cpp" "CMakeFiles/uvtest.dir/include/kalman_filter.cpp.o" "gcc" "CMakeFiles/uvtest.dir/include/kalman_filter.cpp.o.d"
+  "/Users/juice/Documents/LocalPlanners/uv_detector/UV_detector/src/uvtest.cpp" "CMakeFiles/uvtest.dir/src/uvtest.cpp.o" "gcc" "CMakeFiles/uvtest.dir/src/uvtest.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
